@@ -11,7 +11,7 @@ This uses python 3.11
 python -m venv venv
 . venv/Script/activate  # for windows
 source venv/bin/activate  # for linux or mac
-
+```
 
 install requirements in venv
 ```
