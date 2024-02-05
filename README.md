@@ -1,8 +1,9 @@
 # parse-infolettre-dev-ramq
 Outil pour extraire les données des infolettres destinées aux developpeurs de logiciel de pharmacie de la RAMQ
 
+Utilise tabula-py et pandas pour extraire les données des infolettres RAMQ PDF en format CSV ou autre
 ## Basic setup
-This uses python 3.11
+Testé avec Python 3.11
 
 1. Clone the repo
 
